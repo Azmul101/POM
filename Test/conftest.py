@@ -1,6 +1,6 @@
 import pytest
 from selenium import webdriver
-from Git.Config.config import TestData
+from Config.config import TestData
 
 
 @pytest.fixture(params=["chrome"], scope='class')

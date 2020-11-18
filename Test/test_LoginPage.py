@@ -1,6 +1,6 @@
-from Git.Config.config import TestData
-from Git.Pages.LoginPage import Login
-from Git.Search.conftest import BaseTest
+from Config.config import TestData
+from Pages.LoginPage import Login
+from Test.conftest import BaseTest
 
 
 class TestLogin(BaseTest):

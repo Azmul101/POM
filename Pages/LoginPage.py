@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 
-from Git.Config.config import TestData
-from Git.Pages.BasePage import Base
+from Config.config import TestData
+from Pages.BasePage import Base
 
 
 class Login(Base):
