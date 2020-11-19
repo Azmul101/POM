@@ -5,5 +5,9 @@ class TestData:
     Base_url = "https://app.hubspot.com/login"
     User_name = "mohammad.azmul@cubixlabs.com"
     Password = "Azmulhaq9421"
+    account_name = "Azmul haq"
 
     Login_page_title = "HubSpot Login"
+    Home_page_title = "Dashboard Library"
+    Home_page_header = "Dashboard Library"
+
